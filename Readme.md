@@ -79,7 +79,10 @@ Recommendations_System/
 *(You can add screenshots after running the app)*  
 
 ![Screenshot 1](./screenshots/s1.png)  
-![Screenshot 2](./screenshots/s2.png)  
+![Screenshot 2](./screenshots/s2.png)
+![Screenshot 2](./screenshots/s3.png)  
+![Screenshot 2](./screenshots/s4.png)  
+![Screenshot 2](./screenshots/s5.png)  
 
 ---
 
